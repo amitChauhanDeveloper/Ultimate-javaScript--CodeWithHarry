@@ -17,7 +17,6 @@ do{
     console.log(i)
     i++;
 }while (i>n) 
-console.log("Amit Chauhan");
-console.log("Amit Chauhan");
+
 
 
