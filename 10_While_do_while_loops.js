@@ -18,4 +18,6 @@ do{
     i++;
 }while (i>n) 
 console.log("Amit Chauhan");
+console.log("Amit Chauhan");
+
 
